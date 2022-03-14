@@ -1,3 +1,6 @@
+This is a visually cleaner version of the original and now has PWA support Please check [https://pwned.space](https://pwned.space)
+
+
 # Russia HTML DoS
 
 The public news that is presented in the Russian federation is all fake and we believe that it's better to shut it down! If you want to help take the fake news down and join the digital protest, please open this site on your devices in the background and just let it idle. This site works by making a lot of requests to the sites specified below in the stats section, thus overloading them and posing a huge load on their infrastructure. May god help us all.
